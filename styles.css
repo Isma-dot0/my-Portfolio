@@ -1,0 +1,45 @@
+body {
+  background-color: #006400;
+  color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+table {
+  border: 3px solid #000000;
+  background-color: #adff2f;
+  margin: 25px auto;
+  width: 80%;
+  border-collapse: collapse;
+}
+
+caption {
+  caption-side: top;
+  text-align: left;
+  color: #ffffff;
+  font-weight: bold;
+  padding: 10px;
+}
+
+ol {
+  padding-right: 15px;
+  list-style: decimal;
+}
+
+figure {
+  border: 4px solid #526e48;
+  border-width: thick;
+  margin: 20px auto;
+}
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+  color: #333333;
+}
+
+img {
+  padding: 10px;
+  width: 150px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
